@@ -1,0 +1,19 @@
+{
+  "name": "dmitry",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "firsttime",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log('Hello, World!)"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Demi-JS"
+  },
+  "keywords": [
+    "no"
+  ],
+  "author": "dmitry",
+  "license": "ISC"
+}
